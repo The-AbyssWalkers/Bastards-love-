@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"7e12d7ecc8ac3499","x":-80,"y":-280,"width":250,"height":100,"type":"text","text":"Selis is born a princess"},
+		{"id":"0ba6966884edb9ed","x":-80,"y":0,"width":250,"height":120,"type":"text","text":"Kazimir is born a bastard and called the black lion since his hair is black unlike the others"},
+		{"id":"9bf63f5b6d8021d3","x":520,"y":-271,"width":250,"height":83,"type":"text","text":"Selis is turned into a hideous beast by a curse"}
+	],
+	"edges":[
+		{"id":"990557956138adc8","fromNode":"7e12d7ecc8ac3499","fromSide":"right","toNode":"9bf63f5b6d8021d3","toSide":"left"}
+	]
+}
